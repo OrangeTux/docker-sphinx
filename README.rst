@@ -31,7 +31,7 @@ This software is licensed under the `MIT license`_.
 
 
 .. _Sphinx: http://sphinx-doc.org/
-.. _Docker Hub: https://hub.docker.com/r/orangetux/Sphinx
+.. _Docker Hub: https://hub.docker.com/r/orangetux/docker-sphinx/
 .. _MIT license: LICENSE
 
 .. |asciicast| image:: https://asciinema.org/a/26498.png
