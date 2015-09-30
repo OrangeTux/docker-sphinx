@@ -3,6 +3,6 @@ MAINTAINER Auke Willem Oosterhoff <auke@orangetux.nl>
 
 RUN pip install sphinx
 
-WORKDIR /docs
+WORKDIR /src
 
-CMD sphinx-build -b html source/ build/
+CMD sphinx-build -b html docs/source/ docs/build/
