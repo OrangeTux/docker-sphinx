@@ -1,4 +1,4 @@
-FROM advancedclimatesystems/python:3.4.3
+FROM advancedclimatesystems/python:2.7.10
 MAINTAINER Auke Willem Oosterhoff <auke@orangetux.nl>
 
 RUN pip install sphinx
